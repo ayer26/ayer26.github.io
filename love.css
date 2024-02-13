@@ -1,0 +1,52 @@
+nav {
+    width: 100%;
+    background-color: lightblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+nav img {
+    width: 100px;
+    margin-left: 50px;
+  }
+  
+  .contact {
+    display: flex;
+    justify-content: right;
+  }
+  
+  .contact a {
+    font-weight: bold;
+    margin-right: 100px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .contact a:hover {
+    color: darkblue;
+  }
+
+body{background-color:lightpink;}
+h1{color:black;font-size: 60px; font-family:monospace;} 
+p{font-family:monospace;font-size: 30px;}
+
+button{
+    font-family:monospace;
+    font-size: 25px;
+    background-color:lightblue;
+    color:black;
+    border-radius: 25px;
+}
+#container{
+    position:relative;
+    margin-right: 400px;
+    border: 2px black solid;
+}
+#container{
+    float:right
+}
+
+
+
